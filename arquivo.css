@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+a{
+    background-color: rgb(60, 60, 190);
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: aqua;
+}
+h3{
+    border-bottom: 2px solid black;
+    color: rgb(60, 60, 190);
+}
+.minha-linha-final{
+    border-bottom: 1px solid black;
+}
+h4{
+    text-align: center;
+    color: rgb(60, 60, 190);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.imagem{
+    text-align: center;
+}
